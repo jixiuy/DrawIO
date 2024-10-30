@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="第 1 页" id="DEQJIB_DDu9PdUa7HAsH">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0jJyqw8p8lYc8W4ClNZ-1" target="C0jJyqw8p8lYc8W4ClNZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0jJyqw8p8lYc8W4ClNZ-1" target="C0jJyqw8p8lYc8W4ClNZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0jJyqw8p8lYc8W4ClNZ-1" target="C0jJyqw8p8lYc8W4ClNZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0jJyqw8p8lYc8W4ClNZ-1" target="C0jJyqw8p8lYc8W4ClNZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="C0jJyqw8p8lYc8W4ClNZ-1" target="C0jJyqw8p8lYc8W4ClNZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-1" value="系统架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="58" width="96" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-2" value="账户登录注册模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="62" y="177" width="116" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-3" value="记账设置模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="179" width="116" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-4" value="搜索功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="177" width="116" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-6" value="统计分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="175" width="116" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C0jJyqw8p8lYc8W4ClNZ-7" value="记账记事模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="686" y="175" width="116" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
