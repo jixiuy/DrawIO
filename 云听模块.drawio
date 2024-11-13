@@ -4,37 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-2">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-3">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-5">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-6">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-4">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-1" value="系统总体架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-1" value="系统总体架构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="343" width="96" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="34" y="486" width="96" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-3" value="音乐播放与控制模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-3" value="音乐播放与控制模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="168" y="486" width="117" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-4" value="内容展示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-4" value="内容展示模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="588" y="486" width="96" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-5" value="音乐管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-5" value="音乐管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="486" width="96" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-6" value="搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-6" value="搜索模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="486" width="96" height="53" as="geometry" />
         </mxCell>
       </root>
