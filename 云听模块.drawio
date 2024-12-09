@@ -1,23 +1,47 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="NON8Rd3GJQy8wurd_1fi">
-    <mxGraphModel dx="794" dy="472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="714" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="422" />
+              <mxPoint x="82" y="422" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="422" />
+              <mxPoint x="227" y="422" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="395" as="sourcePoint" />
+            <mxPoint x="503" y="485" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="422" />
+              <mxPoint x="503" y="422" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JlHSlP3Qjkk1ZIU8IoEL-1" target="JlHSlP3Qjkk1ZIU8IoEL-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="395" as="sourcePoint" />
+            <mxPoint x="636" y="485" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="422" />
+              <mxPoint x="636" y="422" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JlHSlP3Qjkk1ZIU8IoEL-1" value="系统总体架构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="322" y="343" width="96" height="53" as="geometry" />
