@@ -97,19 +97,27 @@
             <mxPoint x="-46" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mn6bOdap1OyjnmH-GyNz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=宋体;fontSize=14;" edge="1" parent="1" source="Mn6bOdap1OyjnmH-GyNz-48" target="Mn6bOdap1OyjnmH-GyNz-51">
+        <mxCell id="Mn6bOdap1OyjnmH-GyNz-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn6bOdap1OyjnmH-GyNz-48" target="Mn6bOdap1OyjnmH-GyNz-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mn6bOdap1OyjnmH-GyNz-53" value="问题反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=14;" vertex="1" connectable="0" parent="Mn6bOdap1OyjnmH-GyNz-52">
-          <mxGeometry x="-0.1169" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="5" as="offset" />
+        <mxCell id="Mn6bOdap1OyjnmH-GyNz-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;反馈信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="Mn6bOdap1OyjnmH-GyNz-103">
+          <mxGeometry x="0.0588" relative="1" as="geometry">
+            <mxPoint x="-3" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mn6bOdap1OyjnmH-GyNz-48" value="反馈页面" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="644" y="410" width="98" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="Mn6bOdap1OyjnmH-GyNz-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mn6bOdap1OyjnmH-GyNz-51" target="Mn6bOdap1OyjnmH-GyNz-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mn6bOdap1OyjnmH-GyNz-106" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;反馈信息&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="Mn6bOdap1OyjnmH-GyNz-105">
+          <mxGeometry x="-0.0604" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mn6bOdap1OyjnmH-GyNz-51" value="D3&amp;nbsp; &amp;nbsp; &amp;nbsp;反馈信息" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="636" y="545" width="114" height="36" as="geometry" />
+          <mxGeometry x="636" y="306" width="114" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Mn6bOdap1OyjnmH-GyNz-54" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="93" y="410" width="97" height="61" as="geometry" />
@@ -176,6 +184,9 @@
           <mxGeometry x="0.0493" y="-3" relative="1" as="geometry">
             <mxPoint x="4" y="15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Mn6bOdap1OyjnmH-GyNz-101" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="645" y="203" width="97" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
